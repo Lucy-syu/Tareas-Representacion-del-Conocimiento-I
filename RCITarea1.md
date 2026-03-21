@@ -221,3 +221,12 @@ $A$ & $A \uparrow A$ & $A \uparrow (A \uparrow A)$ & $\bot$ \\
 ```
 
 $$\bot \equiv \big(A \uparrow (A \uparrow A)\big) \uparrow \big(A \uparrow (A \uparrow A)\big)$$
+
+---
+
+Enunciado:
+
+Sabiendo que hay entre 200 y 300, y no hay dos que tengan siempre el mismo color, ¿cuántas habichuelas "mágicas" encontramos en nuestra huerta?
+
+En el pdf se señala que estamos ante un conjunto booleano, la principal caracteristica de un conjunto booleano es que tiene $2^n$ elementos, siendo `n` un número entero.
+Como el número debe estar entre 200 y 300 habichuelas deben de ser 256 para que `n` sea un número entero.
